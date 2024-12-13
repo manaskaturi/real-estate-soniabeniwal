@@ -68,5 +68,7 @@ Password: password123
 Future Features
 Integrate MongoDB for persistent data storage.
 Improve the AI![Screenshot 2024-12-13 184911](https://github.com/user-attachments/assets/27a49e51-2cb6-4544-866a-65fe15198500)
+![Screenshot 2024-12-13 184939](https://github.com/user-attachments/assets/fe73ed47-0780-4abb-9d2f-c4e3dd951cac)
+![Screenshot 2024-12-13 185000](https://github.com/user-attachments/assets/ccc831c5-9273-466d-8520-1f14fa47013b)
 
  recommendation system to recommend properties based on user preferences.

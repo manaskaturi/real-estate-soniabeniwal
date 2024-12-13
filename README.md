@@ -1,3 +1,5 @@
+Developed by SONIA BENIWAL (21BCS9782)
+LINK : https://real-estate-soniabeniwal.vercel.app/login   (HOSTED AT VERCEL)
   Real Estate Application
 
 This is a full stack real estate web application built using  React ,  Express.js , and  MongoDB . It allows users to view properties, log in, and get AI powered recommendations.

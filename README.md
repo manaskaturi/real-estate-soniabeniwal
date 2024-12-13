@@ -67,4 +67,6 @@ Email: test@example.com
 Password: password123
 Future Features
 Integrate MongoDB for persistent data storage.
-Improve the AI recommendation system to recommend properties based on user preferences.
+Improve the AI![Screenshot 2024-12-13 184911](https://github.com/user-attachments/assets/27a49e51-2cb6-4544-866a-65fe15198500)
+
+ recommendation system to recommend properties based on user preferences.

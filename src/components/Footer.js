@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-  return <footer>© 2023 Real Estate App</footer>;
+  return <footer>© 2024 Real Estate App By Sonia Beniwal </footer>;
 };
 
 export default Footer;
